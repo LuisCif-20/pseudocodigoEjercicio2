@@ -1,0 +1,9 @@
+Proceso
+	var valorN
+	Escribir "Ingresa un numero"
+	Leer valorN
+	Hacer
+		Escribir valorN
+		valorN <- ValorN-1
+	Mientras valorN != 0
+FinProceso
